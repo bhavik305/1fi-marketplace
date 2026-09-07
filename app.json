@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "1Fi Marketplace",
+    "slug": "onefi-marketplace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "backgroundColor": "#3B5BFF"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.onefi.marketplace"
+    },
+    "android": {
+      "package": "com.onefi.marketplace",
+      "adaptiveIcon": { "backgroundColor": "#3B5BFF" }
+    },
+    "web": {
+      "bundler": "metro",
+      "asset": {
+        "assetPath": "/1fi-marketplace/"
+      }
+    }
+  }
+}
